@@ -1,0 +1,10 @@
+#KirbyDiv {
+    color: white;
+    text-align: center;
+}
+
+#KirbyCanvas {
+    display: block;
+    margin: 0 auto 20px;
+    cursor: move;
+}
